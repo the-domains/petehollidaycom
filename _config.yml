@@ -1,4 +1,3 @@
-layout_spectrum: 0.8178211888298392
 typography_spectrum: 0.22257189406082034
 color:
   brandStrength: 0.06649489793926477
@@ -6,9 +5,13 @@ color:
   saturation: 0.27869915473274887
   rhythmicContrast: 0.9220185005106032
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#040404'
+    - '#3A4043'
+    - '#FFFFFF'
+    - '#707D7E'
+    - '#B3B9BD'
+layout_spectrum: 0.8178211888298392
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e47c67fd-09a3-43e1-9eb6-0cda7b952674.png
 name: peteholliday.com
+title: 'Mastering Complexity '
