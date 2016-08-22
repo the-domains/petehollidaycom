@@ -11,6 +11,10 @@ color:
     - '#707D7E'
     - '#B3B9BD'
 layout_spectrum: 0.8178211888298392
+author:
+  name: pete holliday.com
+  email: pete@peteholliday.com
+  url: peteholliday.com
 logo: null
 name: peteholliday.com
 navigation:
