@@ -1,0 +1,14 @@
+layout_spectrum: 0.8178211888298392
+typography_spectrum: 0.22257189406082034
+color:
+  brandStrength: 0.06649489793926477
+  lightness: 0.7415089011192322
+  saturation: 0.27869915473274887
+  rhythmicContrast: 0.9220185005106032
+  brandColors:
+    - '#040404'
+    - '#3A4043'
+    - '#FFFFFF'
+    - '#707D7E'
+    - '#B3B9BD'
+name: peteholliday.com
