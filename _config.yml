@@ -11,8 +11,7 @@ color:
     - '#707D7E'
     - '#B3B9BD'
 layout_spectrum: 0.8178211888298392
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e47c67fd-09a3-43e1-9eb6-0cda7b952674.png
+logo: null
 name: peteholliday.com
 navigation:
   - name: 'Home '
